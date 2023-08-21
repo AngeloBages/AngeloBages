@@ -3,7 +3,7 @@ Olá 👋 Meu nome é Ângelo
 
 JAVA Student
 ------------
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="639" height="480"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="533" height="400"/>
 
 ## 🚀 Sobre mim
 Sou resiliente, buscando uma oportunidade para pôr em prática meu empenho. Trabalho
