@@ -43,6 +43,9 @@ Meu aprendizado em Análise e Desenvolvimento de Sistemas proporcionou-me uma ba
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
 &nbsp;
+
+<img src="https://media.tenor.com/1Wi0B03o12MAAAAC/steinsgate-thumbs-up.gif" width="360" height="209" align="right"/>
+
 ## 📞 Contato
 * ✉️   [angelobandeira55555@gmail.com](mailto:angelobandeira55555@gmail.com)
 
