@@ -20,7 +20,7 @@ public class Exemplo {
 </p>
 
 ## 💼 Experiência em Desenvolvimento:
-Com proficiência em Java, estrutura de dados e programação orientada a objetos, tenho uma sólida base para criar aplicações eficientes. Minha experiência em análise e desenvolvimento de sistemas me capacita a compreender as necessidades dos usuários e traduzi-las em código funcional. 
+Com proficiência em Java, estrutura de dados, programação orientada a objetos, Banco de dados SQL e desenvolvimento web com HTML, CSS, JavaScript, tenho uma sólida base para criar aplicações eficientes. Minha experiência em análise e desenvolvimento de sistemas me capacita a compreender as necessidades dos usuários e traduzi-las em código funcional.
 
 &nbsp;
 ## 🔗 Colaboração e Controle de Versão:
