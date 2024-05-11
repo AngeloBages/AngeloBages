@@ -7,7 +7,7 @@ JAVA Developer and Student
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="440" height="330" align="right"/>
     
 ## 🚀 Sobre mim
-Olá! Sou um estudante e desenvolvedor Java entusiasmado para transformar ideias em soluções práticas e inovadoras. Sou resiliente, e busco uma oportunidade para pôr em prática meu empenho. Trabalho bem em equipe, me comunico de maneira eficiente e gosto de desafios.
+Olá! Sou um desenvolvedor Java entusiasmado para transformar ideias em soluções práticas e inovadoras. Sou resiliente, e busco uma oportunidade para pôr em prática meu empenho. Trabalho bem em equipe, me comunico de maneira eficiente e gosto de desafios.
 
 ```java
 public class Exemplo {
