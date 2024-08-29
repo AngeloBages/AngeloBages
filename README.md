@@ -7,7 +7,7 @@ JAVA Developer and Student
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="440" height="330" align="right"/>
     
 ## 🚀 Sobre mim
-Olá! Sou um desenvolvedor Java entusiasmado para transformar ideias em soluções práticas e inovadoras. Sou resiliente, e busco uma oportunidade para pôr em prática meu empenho. Trabalho bem em equipe, me comunico de maneira eficiente e gosto de desafios.
+Olá! Sou um desenvolvedor Back-end buscando a oportunidade para pôr em prática meu empenho. Sou resiliente, trabalho bem em equipe, me comunico de maneira eficiente e gosto de desafios.
 
 ```java
 public class Exemplo {
@@ -20,19 +20,19 @@ public class Exemplo {
 </p>
 
 ## 💼 Experiência em Desenvolvimento:
-Com proficiência em Java, estrutura de dados, programação orientada a objetos, Banco de dados SQL e desenvolvimento web com HTML, CSS, JavaScript, tenho uma sólida base para criar aplicações eficientes. Minha experiência em análise e desenvolvimento de sistemas me capacita a compreender as necessidades dos usuários e traduzi-las em código funcional.
+Com proficiência em Java, Apex, Banco de dados SQL e desenvolvimento web com HTML, CSS, JavaScript, tenho uma sólida base para criar aplicações eficientes. Possuo também experiência na plataforma Salesforce como Administrador e Desenvolvedor.
 
 &nbsp;
 ## 🔗 Colaboração e Controle de Versão:
-Aprecio a colaboração eficiente. Minha familiaridade com Git e GitHub permite-me contribuir de forma contínua em projetos colaborativos, garantindo um fluxo de trabalho harmonioso e rastreável.
+Aprecio a colaboração eficiente e estou familiarizado com Git e GitHub podendo contribuir de forma contínua em projetos colaborativos.
 
 &nbsp;
 ## 🌎 Comunicativo e Multilíngue:
-Experiente em inglês, estou confortável trabalhando em ambientes globais e colaborando com equipes internacionais. A comunicação clara é essencial para o sucesso de qualquer projeto, e estou comprometido em garantir que as ideias sejam compartilhadas de maneira eficaz.
+Experiente em inglês, estou confortável trabalhando com equipes internacionais e estou comprometido em garantir que as ideias sejam compartilhadas de maneira eficaz.
 
 &nbsp;
 ## 🎓 Educação e Desenvolvimento Contínuo:
-Meu aprendizado em Análise e Desenvolvimento de Sistemas proporcionou-me uma base sólida, mas a tecnologia está sempre evoluindo. Estou constantemente buscando aprender e atualizar minhas habilidades para acompanhar as tendências e garantir que minhas soluções sejam modernas e relevantes.
+Com aprendizado em Análise e Desenvolvimento de Sistemas possuo uma base sólida. Estou constantemente buscando aprender e atualizar minhas habilidades.
 
 &nbsp;
 ## 🛠 Habilidades
