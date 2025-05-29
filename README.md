@@ -19,8 +19,15 @@ public class Exemplo {
  
 </p>
 
-## 💼 Experiência em Desenvolvimento:
-Com proficiência em Java, Apex, Banco de dados SQL e desenvolvimento web com HTML, CSS, JavaScript, tenho uma sólida base para criar aplicações eficientes. Possuo também experiência na plataforma Salesforce como Administrador e Desenvolvedor.
+## 💼 Experiência Técnica:
+Possuo experiência com Java, Spring Framework (DI, MVC, Data), Jakarta EE, Hibernate, JPA, JDBC, JSP, JSTL, Servlets, além de práticas modernas de desenvolvimento de APIs REST e arquitetura MVC.
+Trabalho com bancos de dados MySQL, SQL, e conceitos de NoSQL. Tenho familiaridade com XML, esquemas XML, Streams, e estrutura de dados.
+
+Além disso, atuo como Administrador e Desenvolvedor na plataforma Salesforce.com, com conhecimentos tanto em customizações declarativas quanto programáticas (Apex, Visualforce, SOQL, etc.).
+
+&nbsp;
+🌐 Desenvolvimento Web:
+Experiência em HTML5, CSS, JavaScript, e no desenvolvimento de aplicações web responsivas e funcionais. Também tenho experiência com desenvolvimento front-end, mantendo boas práticas de usabilidade e performance.
 
 &nbsp;
 ## 🔗 Colaboração e Controle de Versão:
