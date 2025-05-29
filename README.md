@@ -26,7 +26,7 @@ Trabalho com bancos de dados MySQL, SQL, e conceitos de NoSQL. Tenho familiarida
 Além disso, atuo como Administrador e Desenvolvedor na plataforma Salesforce.com, com conhecimentos tanto em customizações declarativas quanto programáticas (Apex, Visualforce, SOQL, etc.).
 
 &nbsp;
-🌐 Desenvolvimento Web:
+## 🌐 Desenvolvimento Web:
 Experiência em HTML5, CSS, JavaScript, e no desenvolvimento de aplicações web responsivas e funcionais. Também tenho experiência com desenvolvimento front-end, mantendo boas práticas de usabilidade e performance.
 
 &nbsp;
